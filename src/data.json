@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "Circuite",
+    "name": "Jeremy",
+    "year": 2024,
+    "department": "IT",
+    "information": "Congrats Guys...\n\nIn an interesting and surprising move, Dubai-based Aaronz and Co. Real Estate offered paid internships to 2nd year students Jeremy Asirwaad and Raghav Jindal (Both from the Batch of 2024)  \n\nThey join Aaronz on Dec 17th as Engineering Interns and shall be working remotely. \n\nYesterday evening, the CEO of MMJS Consulting (The parent company of Aaronz) called Jeremy and Raghav from Dubai (One of them got a call at 11 PM IST!) and after a brief chat rolled out the offers today. \n\nThe guys are excited at the prospect of picking up great skills and earning their first paycheck. \n\nThis community wishes the chaps good luck.",
+    "images": "www.google.com",
+    "tags": ["FullStack"]
+  },
+  {
+    "id" : 2,
+    "type": "Non-Circute",
+    "name": "Pavithra Lakshmikanthabharathi",
+    "year": 2023,
+    "department": "CIVIL",
+    "information": "The Swayamvaram..\n\n15 calls! Yes, 15 in 5 days. \n\nSome founders were desperate! \n\nOne even asked for feedback on the interview process. \n\nFor Pavithra Lakshmikanthabharathi (Civil 2023), this was a week that may change her life. She was overwhelmed and exhausted talking to so many founders.\n\nShe even had to reject an offer from a firm that is into Metaverse (Of course, the Founder asked her to stay in touch.)\n\nAnd finally it had to be Orangewood Labs (They are into building Robots), a Y Combinator firm from the 2018 cohort. \n \nPavi shall work remotely from GCT as a paid intern. \n\nShe shall spend some time as an Executive Assistant to the Co-Founder before taking up a Product Management Role, a role many IIM Grads covet.\n\nPavi. Congrats!! This is big. Very big. A Y Combinator Firm on your resume shall put your career on a completely different orbit. \n\nGood luck. And God Bless.",
+    "images": "www.wikipedia.com",
+    "tags": ["DataScience", "FullStack"]
+  }
+]
