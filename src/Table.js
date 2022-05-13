@@ -292,7 +292,7 @@ export const Table1 = () => {
 				<div className="tablecontainer">
 					<div className="titlediv">
 						<div className="badgeno">{mydata.length}</div>
-						<span>StartUp Stories</span>
+						<span>Inspiring Stories</span>
 					</div>
 					<Table
 						columns={columns}
