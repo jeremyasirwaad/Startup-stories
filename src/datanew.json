@@ -1,7 +1,7 @@
 [
   {
     "id":"1",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Suntrakanesh SU",
     "year": 2023,
     "department": "EIE",
@@ -22,7 +22,7 @@
   },
   {
     "id":"3",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Akshaya Raj's",
     "year": 2023,
     "department": "CSE",
@@ -32,7 +32,7 @@
   },
   {
     "id":"4",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Naveenprabaharan Selvaraj",
     "year": "2021",
     "department": "IT",
@@ -42,7 +42,7 @@
   },
   {
     "id":"5",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Akshaya Arunkumar",
     "year": 2023,
     "department": "PROD",
@@ -52,7 +52,7 @@
   },
   {
     "id":"6",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Ganapriya",
     "year": 2023,
     "department": "CSE",
@@ -62,7 +62,7 @@
   },
   {
     "id":"7",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Rambarath Prabu",
     "year": 2023,
     "department": "EIE",
@@ -72,7 +72,7 @@
   },
   {
     "id":"8",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Mohamed Asif",
     "year": 2022,
     "department": "ECE",
@@ -82,7 +82,7 @@
   },
   {
     "id":"9",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Mohammed Mushamil",
     "year": 2021,
     "department": "ECE",
@@ -92,7 +92,7 @@
   },
   {
     "id":"10",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Valli Nayagam",
     "year": 2021,
     "department": "PROD",
@@ -102,7 +102,7 @@
   },
   {
     "id":"11",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "DhodRaj",
     "year": 2022,
     "department": "EIE",
@@ -112,7 +112,7 @@
   },
   {
     "id":"12",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Raja G",
     "year": 2020,
     "department": "MECH",
@@ -122,7 +122,7 @@
   },
   {
     "id":"13",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Annamalai",
     "year": 2022,
     "department": "EIE",
@@ -132,7 +132,7 @@
   },
   {
     "id":"14",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Arun Kumar",
     "year": 2017,
     "department": "PROD",
@@ -142,7 +142,7 @@
   },
   {
     "id":"15",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Jeremy Asirwaad",
     "year": 2022,
     "department": "IT",
@@ -152,7 +152,7 @@
   },
   {
     "id":"16",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Raghav Jindal",
     "year": 2022,
     "department": "IT",
@@ -162,7 +162,7 @@
   },
   {
     "id":"17",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Akash Pavan",
     "year": 2020,
     "department": "MECH",
@@ -172,7 +172,7 @@
   },
   {
     "id":"18",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Panneer Selvam",
     "year": 2020,
     "department": "MECH",
@@ -182,7 +182,7 @@
   },
   {
     "id":"19",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "YOKESH K S",
     "year": 2021,
     "department": "M.E",
@@ -192,7 +192,7 @@
   },
   {
     "id":"20",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Jayapriya",
     "year": 2023,
     "department": "IT",
@@ -202,7 +202,7 @@
   },
   {
     "id":"21",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Varshini",
     "year": 2021,
     "department": "EIE",
@@ -212,7 +212,7 @@
   },
   {
     "id":"22",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Shanavas",
     "year": 2023,
     "department": "IT",
@@ -222,7 +222,7 @@
   },
   {
     "id":"23",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Logeshwaran",
     "year": 2021,
     "department": "EIE",
@@ -232,7 +232,7 @@
   },
   {
     "id":"24",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Vishal Pranav",
     "year": 2021,
     "department": "IT",
@@ -242,7 +242,7 @@
   },
   {
     "id":"25",
-    "type": "Circuite",
+    "type": "Circuit",
     "name": "Tamilarasu Vengatachalam",
     "year": 2023,
     "department": "IT",
@@ -252,7 +252,7 @@
   },
   {
     "id":"26",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Dineshprabhu Jagatheeswaran",
     "year": 2022,
     "department": "EIE",
@@ -262,7 +262,7 @@
   },
   {
     "id":"27",
-    "type": "Non-Circuite",
+    "type": "Non-Circuit",
     "name": "Yasholekha Rajasekhar's",
     "year": 2023,
     "department": "EIE",

@@ -121,12 +121,12 @@ export const Table1 = () => {
 			key: "type",
 			filters: [
 				{
-					text: "Circuite",
-					value: "Circuite"
+					text: "Circuit",
+					value: "Circuit"
 				},
 				{
-					text: "Non-Circuite",
-					value: "Non-Circuite"
+					text: "Non-Circuit",
+					value: "Non-Circuit"
 				}
 			],
 			onFilter: (value, record) => record.type === value
