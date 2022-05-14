@@ -6,10 +6,13 @@ import Highlighter from "react-highlight-words";
 import { SearchOutlined } from "@ant-design/icons";
 import { Nav } from "./Nav";
 import "antd/dist/antd.css";
+import { useNavigate } from "react-router-dom";
 // import MaterialTable from "material-table";
 
 export const Table1 = () => {
 	const [page, setPage] = React.useState(1);
+
+	const navigate = useNavigate();
 
 	const [searchText, setSearchText] = useState("");
 	const [searchedColumn, setSearchedColumn] = useState("");
@@ -299,6 +302,13 @@ export const Table1 = () => {
 						dataSource={mydata}
 						pagination={{
 							pageSize: 27
+						}}
+						onRow={(record, rowIndex) => {
+							return {
+								onClick: (event) => {
+									navigate(`/data/${record.id}`);
+								} // click row
+							};
 						}}
 					/>
 				</div>
