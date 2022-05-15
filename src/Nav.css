@@ -12,7 +12,7 @@
 
 .logotxt{
     font-family: 'Rubik', sans-serif;
-    margin-left: 70px;
+    /* margin-left: 70px; */
     font-weight: 600;
     font-size: 27px;
     margin-bottom: 0px;
@@ -29,13 +29,25 @@
     color: rgb(255, 255, 255);
 }
 
+.navbarcontainer{
+    display: flex;margin-left: 70px;
+}
+
+.navbarcontainer img{
+    height: 60px;
+}
+
 @media only screen and (max-width: 900px)  {
     .logotxt{
-        font-family: 'Arvo', serif;
-        margin-left: 20px;
+        
+        
         font-size: 20px;
         margin-bottom: 0px;
         color: white;
     
+    }
+
+    .navbarcontainer{
+        display: flex;margin-left: 20px;
     }
   }
