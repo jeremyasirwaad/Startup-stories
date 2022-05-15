@@ -75,7 +75,7 @@ export const Infopage = () => {
 						)}
 
 						<div className="innertext">
-							<span data-aos="fade-up">{stdata.information}</span>
+							<span>{stdata.information}</span>
 						</div>
 					</div>
 				</div>
