@@ -27,6 +27,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 .infoimgcontainer img {
     height: auto;
@@ -85,7 +86,7 @@
         align-items: center;
     }
 
-    .infotitle{
+    /* .infotitle{
         align-items: flex-start;
-    }
+    } */
 }
