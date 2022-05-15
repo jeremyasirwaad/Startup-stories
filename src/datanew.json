@@ -41,16 +41,6 @@
     "tags": ["DataScience"]
   },
   {
-    "id":"5",
-    "type": "Non-Circuit",
-    "name": "Akshaya Arunkumar",
-    "year": 2023,
-    "department": "PROD",
-    "information": "Mafia Strikes. Again! \n\n76 potential applications from all over India to choose from. But Shanavas Shareif K (Prod 2020) ignored all of them to find talent in GCT Campus. \n\nHe zeroed in on Akshaya Arunkumar (Prod 2023), mentored by Brindha Dhanabalan, CFA (ECE 2002) and Shanavas himself.\n\nAkshaya is probably the one great talent on campus - smart, communicative and humane - who never wanted to code. \n\nA key member of the gSARC team (GCT Student Alumni Relationship Cell), Akshaya has been hired as a Digital Marketing Intern by Epitome at a cool Rs.15,000 p.m. as stipend. \n\nBased on performance, Epitome may choose to hire her in a full-time role later.  \n\nAkshaya has another year to go before she graduates. \n\nIt's a new beginning for her, an unchartered territory for most Engineers. But knowing Akshaya, we know she will ace it, for she is the rockstar from the batch of 2023.\n\nGood Luck. And God Bless..",
-    "images": "https://firebasestorage.googleapis.com/v0/b/startup-st.appspot.com/o/Akshaya%20Arunkumar.jpg?alt=media&token=e0df3777-1e02-4ad2-8e9f-348f472f13d7",
-    "tags": ["Digital Marketing"]
-  },
-  {
     "id":"6",
     "type": "Circuit",
     "name": "Ganapriya",
@@ -249,15 +239,6 @@
     "information": "Congratulations Tamilarasu Vengatachalam (Batch of 2023) on getting an internship at HT Labs. \n\nHT Labs, a startup incubated by the Hindustan Times Group, develops digital- first products for audiences based on their preferences. \n\nThis is the result of a wider initiative to introduce our students to the world of startups.",
     "images": "",
     "tags": [ "FullStack"]
-  },
-  {
-    "id":"26",
-    "type": "Circuit",
-    "name": "Yasholekha Rajasekhar",
-    "year": 2023,
-    "department": "EIE",
-    "information": "It's Yasholekha Rajasekhar's (Batch of 2023) turn to crack the Krayen Internship. \n\nAfter much trepidation, the wait is finally over. Yash gets to intern with Krayen (A Bargava Subramanian venture) as a Marketing Analyst. She gets a stipend too. \n\nYash: Knowing Bargava Subramanian, you can expect one heck of a journey. But at the end it shall be fulfilling. Good luck. \n\nBargava Subramanian is still offering a few unpaid internships to our students, those who wish to go beyond their academics,and wish to get a feel for the startup ecosystem. For more details refer to Bargava's post in the group.",
-    "images": "https://firebasestorage.googleapis.com/v0/b/startup-st.appspot.com/o/Yasolekha%20Rajasekhar.jpg?alt=media&token=7c887987-4e2a-415c-ab06-d11f51910b01",
-    "tags": ["FullStack"]
   }
+
 ]
