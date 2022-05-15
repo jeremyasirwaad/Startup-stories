@@ -3,10 +3,12 @@ import mydata from "./datanew.json";
 import { Nav } from "./Nav";
 import "./Infopage.css";
 import { useParams } from "react-router-dom";
+import ClipLoader from "react-spinners/ClipLoader";
 
 export const Infopage = () => {
 	const { id } = useParams();
 	const [stdata, setStdata] = useState({});
+	const [imgloading, setImgloading] = useState(true);
 
 	useEffect(() => {
 		setStdata(...mydata.filter((e) => e.id === id));
@@ -26,9 +28,25 @@ export const Infopage = () => {
 						</span>
 					</span>
 					<div className="infoinner">
-						<div className="infoimgcontainer">
-							<img src={stdata.images} alt="" srcset="" />
-						</div>
+						{stdata.images === "" ? (
+							""
+						) : (
+							<div className="infoimgcontainer">
+								{imgloading ? <ClipLoader size={75} /> : <div></div>}
+								<img
+									style={{ display: imgloading ? "none" : "block" }}
+									src={stdata.images}
+									alt=""
+									srcset=""
+									onLoad={() => {
+										setImgloading(false);
+									}}
+								/>
+
+								{/* <img src={stdata.images} alt="" srcset="" onLoad={() => { setImgloading(false) }} /> */}
+							</div>
+						)}
+
 						<div className="innertext">
 							<span>{stdata.information}</span>
 						</div>
