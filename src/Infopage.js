@@ -4,8 +4,10 @@ import { Nav } from "./Nav";
 import "./Infopage.css";
 import { useParams } from "react-router-dom";
 import ClipLoader from "react-spinners/ClipLoader";
+import { useNavigate } from "react-router-dom";
 
 export const Infopage = () => {
+	const navigate = useNavigate();
 	const { id } = useParams();
 	const [stdata, setStdata] = useState({});
 	const [imgloading, setImgloading] = useState(true);
@@ -19,6 +21,11 @@ export const Infopage = () => {
 			<Nav></Nav>
 			{/* {mydata[0].name} */}
 			{/* <img src={mydata[0].images} alt="" srcset="" /> */}
+			<div className="backicon">
+			<i class="fa-solid fa-arrow-left-long "  onClick={() => {
+				navigate('/');
+			}}></i>
+			</div>
 			<div className="infocontainer">
 				<div className="innercol">
 					<span className="infotitle">
