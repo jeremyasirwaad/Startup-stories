@@ -77,4 +77,11 @@
         width: 250px;
         border-radius: 10%;
     }
+
+    .innercol{
+        display: flex;
+        flex-direction: column;
+        width: 95%;
+        align-items: center;
+    }
 }
