@@ -89,4 +89,9 @@
     /* .infotitle{
         align-items: flex-start;
     } */
+    .infotitle{
+        
+        margin-bottom: 25px;
+    
+    }
 }

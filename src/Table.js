@@ -298,6 +298,7 @@ export const Table1 = () => {
 						<span>Inspiring Stories</span>
 					</div>
 					<Table
+					className="table"
 						columns={columns}
 						dataSource={mydata}
 						pagination={{
