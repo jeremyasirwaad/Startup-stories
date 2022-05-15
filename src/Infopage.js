@@ -32,7 +32,20 @@ export const Infopage = () => {
 							""
 						) : (
 							<div className="infoimgcontainer">
-								{imgloading ? <ClipLoader size={75} /> : <div></div>}
+								{imgloading ? (
+									<div
+										style={{
+											height: "250px",
+											display: "flex",
+											justifyContent: "center",
+											alignItems: "center"
+										}}
+									>
+										<ClipLoader size={75} />
+									</div>
+								) : (
+									<div></div>
+								)}
 								<img
 									style={{ display: imgloading ? "none" : "block" }}
 									src={stdata.images}
