@@ -234,6 +234,10 @@ export const Table1 = () => {
 					value: "EIE"
 				},
 				{
+					text: "PROD",
+					value: "PROD"
+				},
+				{
 					text: "M.E",
 					value: "M.E"
 				}

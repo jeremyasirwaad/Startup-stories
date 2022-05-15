@@ -1,7 +1,7 @@
 [
   {
     "id":"1",
-    "type": "Non-Circuit",
+    "type": "Circuit",
     "name": "Suntrakanesh SU",
     "year": 2023,
     "department": "EIE",
@@ -23,7 +23,7 @@
   {
     "id":"3",
     "type": "Circuit",
-    "name": "Akshaya Raj's",
+    "name": "Akshaya Raj",
     "year": 2023,
     "department": "CSE",
     "information": "Playing the skill game on the front foot. \n\nIt is very well known that most firms that visit campus seek generic skills, that disincentivizes the need to specialize. \n\nOur initiative to connect profiles to startups is slowly changing the rules of the game. \n\nIt is driving the point that specialization, sells. \n\nAkshaya Raj's (2023) profile is a classic example. Here is a profile with a singular focus on Analytics + Visualization and Story Telling. \n\nNeedless to say, startups liked it. \n\nShe got offers from Frankfurt-based, Travit GmbH (Industrial AI), Energos (Working on Smart Grids) and Omnify (A SaaS platform for small services business).\n\nShe rejected these to join Flutura Decision Sciences & Analytics (An AI Solutions firm) as an intern. \n\nShe shall be spending the next few months working on a Deep Learning Problem. \n\nWe wish Akshaya the very best and hope that many more follow her path.",
@@ -62,7 +62,7 @@
   },
   {
     "id":"7",
-    "type": "Non-Circuit",
+    "type": "Circuit",
     "name": "Rambarath Prabu",
     "year": 2023,
     "department": "EIE",
@@ -102,7 +102,7 @@
   },
   {
     "id":"11",
-    "type": "Non-Circuit",
+    "type": "Circuit",
     "name": "DhodRaj",
     "year": 2022,
     "department": "EIE",
@@ -122,7 +122,7 @@
   },
   {
     "id":"13",
-    "type": "Non-Circuit",
+    "type": "Circuit",
     "name": "Annamalai",
     "year": 2022,
     "department": "EIE",
@@ -178,7 +178,7 @@
     "department": "MECH",
     "information": "From Brick and Mortar to Digital. \n\nPanneer Selvam is your typical Mechanical Engineering graduate (Batch of 2020), but with a twist. \n\nWith Engineering hiring in manufacturing going through a deep slump, Panneer started his career as a Construction Supervisor in a small firm his friend ran. \n\nBut he realized that taking such a career path shall not do justice to his talent. \n\nHe chose to embrace the digital economy, picked up fullstack web development,  some AI and Digital Marketing skills. \n\nHe approached us to help him get that one break, which we all know can be a stepping stone to a great career. \n\nThe break came in the form of Satheesh Ananthasubramanian (1995), who runs Rage.Fan, a fan-first sports platform with the vision to democratize sports using blockchain technology. \n\nPanner doesn't have an early lead compared to his peer group. And his compensation isn't one that shall invite his peer group's envy. \n\nBut a few years in NFT, Blockchain, can put his career on a different orbit. \n\nWe all have our career defining moments.\n\nIn Nov 2041, when Panneer, in a deeply reflective mood, looks back at his past, we are sure that he would emphatically consider the North East Monsoon (Vada Kizhakku Paruvamazhai) Season of 2021, as the one that ushered in the defining moment, one that changed everything for him. \n\nPanneer : \"Usura kuduthu velai paru. Vetri unnai thedi varum\". \n\nGood Luck. And God Bless.\n\nhttps://lnkd.in/giSzi22r",
     "images": "https://firebasestorage.googleapis.com/v0/b/startup-st.appspot.com/o/Paneer%20selvam.jpg?alt=media&token=8fe4b6be-5810-46a7-b567-e4a307a2ee0a",
-    "tags": ["DataScience", "FullStack"]
+    "tags": ["FullStack"]
   },
   {
     "id":"19",
@@ -188,7 +188,7 @@
     "department": "M.E",
     "information": "Congrats YOKESH K S  (M.E. Engineering Design, Batch of 2021) on getting a fulltime role with Incresco. \n\nIncresco was Co-Founded by our alum, Santhosh Kumar Jayaraman, a Production Engineer from the Batch of 2009.\n\nYokesh is part of STEP UP, a project based, 'Learning by Doing' Program, run by GCT Alumni, to nurture fullstack developers for startups.\n\nThis community wishes Yokesh the very best.",
     "images": "",
-    "tags": ["DataScience", "FullStack"]
+    "tags": ["FullStack"]
   },
   {
     "id":"20",
@@ -198,11 +198,11 @@
     "department": "IT",
     "information": "Congrats Jayapriya G (Batch of 2023) on cracking an internship with BIS Research (A market research firm). \n\nJayapriya is part of STEP UP, a project based, 'Learning by Doing' Program, run by GCT Alumni, to nurture fullstack developers for startups.\n\nWe are delighted that Jayapriya's internship shall fetch her a respectable compensation that is more than her family's regular income. \n\nIn what turned out to be an interesting sequence of events, we are also pleased to share that Jayapriya displayed strong negotiation skills in her dealing with BIS Research. \n\nHere is how the negotiations went:\n\nAct 1: First they asked her to sign up for a 4 month (non-paid) training followed by 15k p.m. internship. Jayapriya rejected it. \n\nAct 2: She called them up later and offered her services at 10k p.m. \n\nAct 3: They came back and offered her 10k p.m. but wanted her to work for 40 hours per week. Jaya rejected that as well.\n\nClimax: Today morning they called her and offered 10k p.m. at 25 hours a week. \n\nJaya finally accepted the offer. \n\nNow that's some negotiation by a 3rd year student!!\n\nThis community wishes Jayapriya good luck with her internship. \n\nWe are extremely confident that by the time she graduates, Jayapriya shall be drowned in offers!!\n\nGood Luck and God Bless.",
     "images": "",
-    "tags": ["DataScience", "FullStack"]
+    "tags": [ "FullStack"]
   },
   {
     "id":"21",
-    "type": "Non-Circuit",
+    "type": "Circuit",
     "name": "Varshini",
     "year": 2021,
     "department": "EIE",
@@ -218,17 +218,17 @@
     "department": "IT",
     "information": "Our initiative to create space for our students and young alumni in the startup world is opening new vistas, a career in Digital Marketing being a case in point.\n\nShanavas Shareif K , a Production Engineer from the Batch of 2020, has managed to land in a full-time role at epitome.ai, a platform that uses ML and NLP to provide actionable insights into career progression. \n\nIn perhaps a first and keeping in mind the spirit of his role as a \"Full Stack Marketer\", his resume in a standard pdf format was not sent to the startup community. Instead his Portfolio was sent. \n\nThis is epitome.ai's second offer. Shanavas joins Kamalahassan (Batch of 2023) who is already interning with them as a full stack developer.\n\nThis community wishes Shanavas the very best. \n\nAnd many thanks to Bargava Subramanian for opening a window to these exciting opportunities in the startup world. \n\nhttps://lnkd.in/gyGH6Szq",
     "images": "",
-    "tags": ["DataScience", "FullStack"]
+    "tags": [ "FullStack"]
   },
   {
     "id":"23",
-    "type": "Non-Circuit",
+    "type": "Circuit",
     "name": "Logeshwaran",
     "year": 2021,
     "department": "EIE",
     "information": "Logeshwaran  (EIE Batch of 2021)- What a journey!!\n\nIn Nov 2020, Logesh was an EIE student dreaming of doing something in his domain. \n\nBut then he took a conscious decision to be a web developer. \n\n7 months later, his profile had underwent a complete transformation (From a pucca Electronics guy to a pucca Web Developer with 5 projects). \n\nHe didn't spend a penny during this transformation process. \n\nAnd today he managed to land an offer with Geekyants at a compensation that is at least 1.5 times more than the average compensation received on GCT Campus. \n\nhttps://www.roc8.careers/ played an important role in his journey. (Do read their manifesto. It is interesting)\n\nThey are a consultancy that places profiles based on 'Proof of Work' (Projects). They don't take a single penny from candidates. Once a candidate joins a firm, the firm pays roc8.\n\nThis community wishes Logesh the very best. \n\nHe has demonstrated that should the need arise, all it takes is 6/7 months of effort to transform a profile, and be successful. \n\nGood Luck Logeshwaran.",
     "images": "",
-    "tags": ["DataScience", "FullStack"]
+    "tags": ["FullStack"]
   },
   {
     "id":"24",
@@ -238,7 +238,7 @@
     "department": "IT",
     "information": "Let's start our Monday on an auspicious note.\n\nVishal Pranav (Batch of 2023) after interviewing with a few startups got two offers for paid internships, one at MindNotix and the other at Inzite Global Data Science Ltd.\n\nHe has chosen to join Inzite Global as a paid intern today. After evaluation, he may be offered the position of Junior Data Engineer.\n\nCongrats Vishal. It shall not be easy. Give your best. Your success shall open the doors to many more from GCT.",
     "images": "",
-    "tags": ["DataScience", "FullStack"]
+    "tags": ["FullStack"]
   },
   {
     "id":"25",
@@ -248,26 +248,16 @@
     "department": "IT",
     "information": "Congratulations Tamilarasu Vengatachalam (Batch of 2023) on getting an internship at HT Labs. \n\nHT Labs, a startup incubated by the Hindustan Times Group, develops digital- first products for audiences based on their preferences. \n\nThis is the result of a wider initiative to introduce our students to the world of startups.",
     "images": "",
-    "tags": ["DataScience", "FullStack"]
+    "tags": [ "FullStack"]
   },
   {
     "id":"26",
-    "type": "Non-Circuit",
-    "name": "Dineshprabhu Jagatheeswaran",
-    "year": 2022,
-    "department": "EIE",
-    "information": "Our efforts towards getting our students to consider startups as a career is bearing fruit. \n\nDineshprabhu Jagatheeswaran (EIE Batch of 2022) has received an internship offer from iCliniq, an Indian Health Tech startup that is shaking up the world of telemedicine. \n\nCongrats Dineshprabhu Jagatheeswaran\n\nBargava Subramanian - Thank you for being the conduit to reach the world of startups.",
-    "images": "https://firebasestorage.googleapis.com/v0/b/startup-st.appspot.com/o/Dineshprabhu%20Jagadheeshwaran.jpg?alt=media&token=5f0ca46c-2ce8-4da8-8d9b-4d5be000d384",
-    "tags": ["DataScience", "FullStack"]
-  },
-  {
-    "id":"27",
-    "type": "Non-Circuit",
-    "name": "Yasholekha Rajasekhar's",
+    "type": "Circuit",
+    "name": "Yasholekha Rajasekhar",
     "year": 2023,
     "department": "EIE",
     "information": "It's Yasholekha Rajasekhar's (Batch of 2023) turn to crack the Krayen Internship. \n\nAfter much trepidation, the wait is finally over. Yash gets to intern with Krayen (A Bargava Subramanian venture) as a Marketing Analyst. She gets a stipend too. \n\nYash: Knowing Bargava Subramanian, you can expect one heck of a journey. But at the end it shall be fulfilling. Good luck. \n\nBargava Subramanian is still offering a few unpaid internships to our students, those who wish to go beyond their academics,and wish to get a feel for the startup ecosystem. For more details refer to Bargava's post in the group.",
     "images": "https://firebasestorage.googleapis.com/v0/b/startup-st.appspot.com/o/Yasolekha%20Rajasekhar.jpg?alt=media&token=7c887987-4e2a-415c-ab06-d11f51910b01",
-    "tags": ["DataScience", "FullStack"]
+    "tags": ["FullStack"]
   }
 ]
