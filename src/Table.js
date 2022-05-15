@@ -7,15 +7,20 @@ import { SearchOutlined } from "@ant-design/icons";
 import { Nav } from "./Nav";
 import "antd/dist/antd.css";
 import { useNavigate } from "react-router-dom";
+import logo from "./GCT.png"
+
 // import MaterialTable from "material-table";
 
 export const Table1 = () => {
+	const [loader, setLoader] = useState(true);
 	const [page, setPage] = React.useState(1);
 
 	const navigate = useNavigate();
 
 	const [searchText, setSearchText] = useState("");
 	const [searchedColumn, setSearchedColumn] = useState("");
+
+	
 
 	const getColumnSearchProps = (dataIndex) => ({
 		filterDropdown: ({
@@ -290,6 +295,7 @@ export const Table1 = () => {
 
 	return (
 		<div>
+			
 			<Nav></Nav>
 			<div className="tablebody">
 				<div className="tablecontainer">

@@ -33,7 +33,7 @@
 .infoimgcontainer img {
     height: auto;
     width: 350px;
-    border-radius: 10%;margin-bottom: 40px;
+    border-radius: 5%;margin-bottom: 40px;
 }
 .backicon
 {
@@ -67,6 +67,18 @@
     align-items: center;
 }
 
+.loder{
+height: 100vh;
+width: 100vw;
+display: flex;align-items: center;
+justify-content: center;
+}
+
+.loder img{
+    height: 550px;
+    width: auto;
+}
+
 
 @media only screen and (max-width: 1500px) {
 
@@ -91,7 +103,7 @@
     .infoimgcontainer img {
         height: auto;
         width: 250px;
-        border-radius: 10%;
+        border-radius: 5%;
     }
 
     .backicon{
