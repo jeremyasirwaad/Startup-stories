@@ -22,9 +22,12 @@ export const Infopage = () => {
 			{/* {mydata[0].name} */}
 			{/* <img src={mydata[0].images} alt="" srcset="" /> */}
 			<div className="backicon">
-			<i class="fa-solid fa-arrow-left-long "  onClick={() => {
-				navigate('/');
-			}}></i>
+				<i
+					class="fa-solid fa-arrow-left-long "
+					onClick={() => {
+						navigate(-1);
+					}}
+				></i>
 			</div>
 			<div className="infocontainer">
 				<div className="innercol">
