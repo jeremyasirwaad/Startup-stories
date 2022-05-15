@@ -5,6 +5,8 @@ import "./Infopage.css";
 import { useParams } from "react-router-dom";
 import ClipLoader from "react-spinners/ClipLoader";
 import { useNavigate } from "react-router-dom";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 export const Infopage = () => {
 	const navigate = useNavigate();
@@ -14,6 +16,8 @@ export const Infopage = () => {
 
 	useEffect(() => {
 		setStdata(...mydata.filter((e) => e.id === id));
+		AOS.init();
+		AOS.refresh();
 	}, []);
 
 	return (
@@ -31,7 +35,7 @@ export const Infopage = () => {
 			</div>
 			<div className="infocontainer">
 				<div className="innercol">
-					<span className="infotitle">
+					<span className="infotitle" data-aos="fade-up">
 						{stdata.name}{" "}
 						<span style={{ fontSize: "21px" }}>
 							({stdata.department} {stdata.year})
@@ -71,7 +75,7 @@ export const Infopage = () => {
 						)}
 
 						<div className="innertext">
-							<span>{stdata.information}</span>
+							<span data-aos="fade-up">{stdata.information}</span>
 						</div>
 					</div>
 				</div>

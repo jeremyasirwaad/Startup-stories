@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
 .infocontainer{
     width: 100%;
@@ -19,8 +19,8 @@
 }
 
 .infotitle{
-    font-weight: 700;
-    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
     font-size: 26px;
     margin-bottom: 45px;
 
@@ -51,7 +51,7 @@
 }
 
 .innertext{
-  font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
   /* padding: 40px;
    */
    /* margin-top: 50px; */
@@ -84,7 +84,7 @@ justify-content: center;
 
 
     .innertext{
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Rubik', sans-serif;
         /* padding: 40px;
          */
          margin: 30px;
