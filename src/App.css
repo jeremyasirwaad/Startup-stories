@@ -51,6 +51,17 @@
   cursor: pointer;
 }
 
+.footer{
+  position: fixed;
+  bottom: 0px;
+}
+
+.footer p{
+  
+  font-family: 'Rubik', sans-serif;
+
+}
+
 
 @media only screen and (max-width: 900px)  {
   .tablecontainer{

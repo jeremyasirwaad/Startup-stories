@@ -7,7 +7,7 @@ import { SearchOutlined } from "@ant-design/icons";
 import { Nav } from "./Nav";
 import "antd/dist/antd.css";
 import { useNavigate } from "react-router-dom";
-import logo from "./GCT.png"
+import logo from "./GCT.png";
 
 // import MaterialTable from "material-table";
 
@@ -19,8 +19,6 @@ export const Table1 = () => {
 
 	const [searchText, setSearchText] = useState("");
 	const [searchedColumn, setSearchedColumn] = useState("");
-
-	
 
 	const getColumnSearchProps = (dataIndex) => ({
 		filterDropdown: ({
@@ -299,7 +297,6 @@ export const Table1 = () => {
 
 	return (
 		<div>
-			
 			<Nav></Nav>
 			<div className="tablebody">
 				<div className="tablecontainer">
@@ -308,7 +305,7 @@ export const Table1 = () => {
 						<span>Inspiring Stories</span>
 					</div>
 					<Table
-					className="table"
+						className="table"
 						columns={columns}
 						dataSource={mydata}
 						pagination={{
@@ -323,6 +320,20 @@ export const Table1 = () => {
 						}}
 					/>
 				</div>
+			</div>
+			<div
+			className="footer"
+				style={{
+					color:"white",
+					backgroundColor: "black",
+					width: "100%",
+					height: "30px",
+					display: "flex",
+					alignItems: "center",
+					justifyContent: "center"
+				}}
+			>
+				<p style={{margin:"0px"}}>A GCT Coimbatore Initiative</p>
 			</div>
 		</div>
 	);

@@ -9,7 +9,7 @@ export const Nav = () => {
 				<div className="navbarcontainer">
 					
 					<h3 className="logotxt">
-						GCT <span className="ss">StartUp Stories</span>
+						<span className="ss">StartUp Gateway Stories</span>
 					</h3>
 				</div>
 			</div>

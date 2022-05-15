@@ -80,6 +80,20 @@ export const Infopage = () => {
 					</div>
 				</div>
 			</div>
+			<div
+			className="footer"
+				style={{
+					color:"white",
+					backgroundColor: "black",
+					width: "100%",
+					height: "30px",
+					display: "flex",
+					alignItems: "center",
+					justifyContent: "center"
+				}}
+			>
+				<p style={{margin:"0px"}}>A GCT Coimbatore Initiative</p>
+			</div>
 		</div>
 	);
 };
