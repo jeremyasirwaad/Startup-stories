@@ -32,7 +32,7 @@ export const Infopage = () => {
 			<div className="infocontainer">
 				<div className="innercol">
 					<span className="infotitle">
-						Story of {stdata.name}{" "}
+						{stdata.name}{" "}
 						<span style={{ fontSize: "21px" }}>
 							({stdata.department} {stdata.year})
 						</span>
