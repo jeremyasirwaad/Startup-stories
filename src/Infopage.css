@@ -32,14 +32,14 @@
 .infoimgcontainer img {
     height: auto;
     width: 350px;
-    border-radius: 10%;
+    border-radius: 10%;margin-bottom: 40px;
 }
 
 .innertext{
   font-family: 'Roboto', sans-serif;
   /* padding: 40px;
    */
-   margin-top: 50px;
+   /* margin-top: 50px; */
    /* margin: 40px; */
   font-size: 20px;
   margin-bottom: 100px;
