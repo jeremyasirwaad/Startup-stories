@@ -84,4 +84,8 @@
         width: 100%;
         align-items: center;
     }
+
+    .infotitle{
+        align-items: flex-start;
+    }
 }
