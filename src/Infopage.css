@@ -128,4 +128,9 @@ justify-content: center;
         margin-bottom: 25px;
     
     }
+
+    .loder img{
+        height: 350px;
+        width: auto;
+    }
 }
